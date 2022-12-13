@@ -1,0 +1,182 @@
+#slider{
+    margin-top: -20px;
+}
+.slide .info
+{
+    position: absolute;
+    top:210px;
+    overflow: hidden;
+    left: 50px;
+    background:rgba(255, 250, 250, 0.123) ;
+    width: 20%;
+}
+
+.homebuttons li a
+{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px white solid;
+    padding-left: 27px ;
+    padding-right: 27px ;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 2px rgb(104, 250, 111);
+    color: rgb(207, 253, 242);
+    letter-spacing: 3px;
+}
+.homebuttons
+{   
+    position: relative;
+    background-color: rgba(0, 255, 106, 0.993);
+    width: 100%;
+    margin: auto;    
+    text-align: center;  
+    margin-top: -5px;  
+    padding: 20px;     
+    overflow: hidden;          
+}
+
+
+
+.homebuttons ul li
+{
+    list-style-type: none;
+    display: inline-flex;
+    margin-right: 30px;
+}
+
+.homebuttons li a:hover{
+    background-color: rgba(2, 207, 87, 0.993);
+    color: rgb(253, 194, 32);
+    transition: 1.40s;
+    box-shadow: 2px 3px 4px 3px rgb(2, 151, 64);
+    
+}
+.frames{
+    position: relative;
+    background-color: rgb(127, 255, 212,0.585);
+    width: 50%;
+    display: flex;
+    
+    
+    
+}
+.block1 ,.block2
+{
+    width: 50%;
+    margin: auto;
+    
+    margin-top: 50px;
+    
+}
+
+
+
+
+.images img{
+    width: 200px;
+    border: 2px solid darkcyan;
+    border-radius: 10px;
+    
+
+}
+.images{
+    
+    text-align: center;
+    
+    
+    
+}
+.pos
+{
+    text-align: center;
+    
+    margin-top: -20px;
+}
+.pos h5{
+    margin-top: -20px;
+    color: rgb(123, 124, 126);
+}
+
+.images img:hover{
+    box-shadow: 2px 3px 10px 2px rgb(56, 158, 111);
+    transition: 1s;
+}
+
+
+
+*{
+   
+    box-sizing:border-box;
+    
+  }
+  body{
+    font-family:'tahoma', serif;
+    
+  }
+  .container{
+   
+    
+    height:510px;
+    
+    overflow:hidden;
+    float : right;
+    word-wrap: break-word;
+    white-space:pre-wrap;
+    margin-left: -40px;
+    margin-top: -20px;
+    
+    
+    
+  }
+  .container ul{
+    list-style:none;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    
+    
+    
+  }
+  .container li{
+    height:110px;
+    background-color: rgb(127, 255, 212,0.585);
+     text-align:center;
+       padding-top: 25px;
+    
+    border-bottom:1px solid #333;
+    
+  }
+ 
+  .container p{
+    text-align:left;
+    
+    color:rgb(0, 0, 0);
+    
+    text-overflow:ellipsis;
+    white-space:normal;
+    display: inline;
+    
+   }
+   .org
+   {
+    display: inline-flex;
+    width: 100%;
+   }
+ 
+   .news h1{
+    background-color: black;
+    padding: 30px 0px;
+    color: aliceblue;
+    margin-top: -10px;
+    position: static;
+    text-align: center;
+   }
+   .news
+   {
+    
+    width:50%;
+
+   }

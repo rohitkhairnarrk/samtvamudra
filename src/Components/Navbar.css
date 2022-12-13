@@ -1,0 +1,108 @@
+.background {
+margin: 0;
+padding: 0;
+    
+    
+}
+/*
+It is Head Menu are set.
+start from here
+*/
+
+.headnavmenu ul li
+{
+   display: inline-flex;
+   list-style-type: none ;
+   margin-right:  10px;
+   position:relative;
+   top: -10px;
+}
+
+.navhead   {
+    color: rgb(41, 42, 43);
+    text-decoration: none;
+    font-size: 12px;
+    
+}
+/*
+Head menu End here.
+*/
+/*
+Navbar Head Images are set from here.
+*/
+
+.headimage{
+width: 100%;
+margin: auto;
+background-color: rgba(154, 255, 221, 0.534);
+margin-bottom: -10px;
+position: relative;
+top: -20px;
+
+}
+.headimage img{
+    height: 100px ;
+    margin-left: 80px;
+    margin-top: 3px;
+    
+}
+#headname{
+    text-decoration: none;
+    color: black;
+}
+#marathil{
+    text-decoration: none;
+    color: black;
+   font-family: 'AMS Aaditya Regular';
+}
+.marathiline
+{
+    
+    font-size: 27px;
+    text-align: center;
+    margin-top: -100px;
+    padding-bottom: 15px ;
+    margin-left: 220px;
+}
+/*
+Navbar Head Image are end to here.
+/*
+Menu Item are set from here
+*/
+
+.navitem
+{
+    
+    background-color: rgb(90, 89, 89);
+    width:100%;
+    margin: auto;
+    padding: 0.1px;
+    position: relative;
+    top: -20px;
+}
+.navitem ul li{
+    position: relative;
+    left: -25px;
+    list-style-type: none;
+    display: inline-flex;
+    margin-right: 30px;
+    margin-left: 0.1px;
+}
+
+.item   {
+    color: rgb(213, 214, 214);
+    text-decoration: none;
+    font-size: 14px;
+    padding: 0;
+    
+    
+}
+.item:hover{
+    color: chocolate;
+   transition: 0.40s;
+    
+}
+
+/*
+Menu Item are set end to here
+*/

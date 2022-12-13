@@ -1,0 +1,54 @@
+.activitycontent{
+    height: 400px;
+    background-color:rgb(127, 255, 212,0.585);
+    display: flex;
+    
+}
+.activityposter
+{
+    width: 100%;
+    margin: auto;
+    border: 2x solid black;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+   
+    
+}
+
+.second,.third,.four,.first1
+{
+    border: 7px solid rgb(255, 255, 255);
+    height: 300px;
+    box-shadow: 1px 1px 2px -1px rgb(20, 20, 20);
+}
+.activityposter img{
+    height: 150px;
+    width: 80%;
+    text-align: center;
+}
+.mainactivity h1{
+    background-color:rgb(127, 255, 212,0.585); 
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 70px;
+   
+}
+.activityposter button
+{
+    position: relative;
+    margin-top: 10px;
+    font-weight: bold;
+    color: rgb(45, 68, 30);
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    background-color: rgb(147, 250, 143);
+    border: 5px solid rgb(247, 244, 244);
+    border-radius: 5px;
+}
+.activityposter button:hover
+{
+    background-color: rgb(147, 250, 143); 
+    box-shadow: 1px 2px 3px 2px rgb(101, 177, 98);
+}

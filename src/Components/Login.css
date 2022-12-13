@@ -1,0 +1,20 @@
+.login
+{
+    
+    margin-top :-20px ;
+    width: 100%;
+}
+.logincontent{
+    width: 60%;
+    margin: auto;
+    text-align: center ;
+    background-color: aquamarine;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 3px 1px 30px 5px rgb(35, 36, 36);
+}
+.input{
+    
+    margin-top: 122px;
+}

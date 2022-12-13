@@ -1,0 +1,76 @@
+.mainbottom{
+   
+    color: rgb(58, 57, 57);
+   
+    height: 350px;
+    background-color: rgba(72, 231, 98, 0.788);
+    overflow: hidden;
+    border: 10px solid rgb(0, 0, 0);
+    box-shadow: inset 2px 3px 3px 4px white;
+}
+.bottom
+{
+    
+    width: 100%;
+    margin: auto;
+}
+.bottom img{
+    width: 150px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.bottom h2{
+    margin-top: 20px;
+    margin-left: 35px;
+    color: black;
+    text-shadow: 1px 2px 3px  white;
+}
+.bottom h3{
+    color: black;
+    text-shadow: 1px 2px 3px  white;
+}
+.contact
+{
+    
+    margin-left: 40px;
+    width: 356px;
+}
+
+.contactcontent{
+    display: flex;
+    position: relative;
+    left: 370px;
+    top: -190px;
+}
+.rightbottom
+{
+    width: 306px;
+    cursor: pointer;
+}
+.leftbottom
+{
+    margin-top: 40px;
+}
+.rightbottom ul li{
+    margin-left: -20px;
+    list-style-type:">  ";
+    margin-top: 20px;
+}
+
+.leftbottom p:hover{
+    text-shadow: 1px 1px 1px rgb(90, 88, 88);
+    color: orange;
+    transition: 0.50s;
+}
+.rightbottom ul li:hover
+{
+    color: orange;
+    text-shadow: 1px 1px 1px rgb(90, 88, 88);
+    transition: 0.50s;
+}
+.contact :hover{
+    text-shadow: 1px 1px 1px rgb(90, 88, 88);
+    color: orange;
+    transition: 0.50s;
+   
+}
