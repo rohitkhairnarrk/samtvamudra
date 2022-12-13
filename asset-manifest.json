@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rohitkhairnarrk/samtvamudra.git/static/css/main.9ef2cb6e.css",
-    "main.js": "/rohitkhairnarrk/samtvamudra.git/static/js/main.f3a5161e.js",
-    "static/js/787.6c88477e.chunk.js": "/rohitkhairnarrk/samtvamudra.git/static/js/787.6c88477e.chunk.js",
-    "static/media/Bitmap.jpg": "/rohitkhairnarrk/samtvamudra.git/static/media/Bitmap.48b44fd10feb9f9679f1.jpg",
-    "static/media/logo.png": "/rohitkhairnarrk/samtvamudra.git/static/media/logo.c75ff600b694b88b466b.png",
-    "static/media/advertise.jpg": "/rohitkhairnarrk/samtvamudra.git/static/media/advertise.f4078efa7c05ca7cb725.jpg",
-    "index.html": "/rohitkhairnarrk/samtvamudra.git/index.html",
-    "main.9ef2cb6e.css.map": "/rohitkhairnarrk/samtvamudra.git/static/css/main.9ef2cb6e.css.map",
-    "main.f3a5161e.js.map": "/rohitkhairnarrk/samtvamudra.git/static/js/main.f3a5161e.js.map",
-    "787.6c88477e.chunk.js.map": "/rohitkhairnarrk/samtvamudra.git/static/js/787.6c88477e.chunk.js.map"
+    "main.css": "/samtvamudra/static/css/main.9ef2cb6e.css",
+    "main.js": "/samtvamudra/static/js/main.1b9a41ec.js",
+    "static/js/787.6c88477e.chunk.js": "/samtvamudra/static/js/787.6c88477e.chunk.js",
+    "static/media/Bitmap.jpg": "/samtvamudra/static/media/Bitmap.48b44fd10feb9f9679f1.jpg",
+    "static/media/logo.png": "/samtvamudra/static/media/logo.c75ff600b694b88b466b.png",
+    "static/media/advertise.jpg": "/samtvamudra/static/media/advertise.f4078efa7c05ca7cb725.jpg",
+    "index.html": "/samtvamudra/index.html",
+    "main.9ef2cb6e.css.map": "/samtvamudra/static/css/main.9ef2cb6e.css.map",
+    "main.1b9a41ec.js.map": "/samtvamudra/static/js/main.1b9a41ec.js.map",
+    "787.6c88477e.chunk.js.map": "/samtvamudra/static/js/787.6c88477e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ef2cb6e.css",
-    "static/js/main.f3a5161e.js"
+    "static/js/main.1b9a41ec.js"
   ]
 }
